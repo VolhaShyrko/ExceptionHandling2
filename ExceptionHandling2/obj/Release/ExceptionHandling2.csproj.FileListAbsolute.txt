@@ -1,0 +1,5 @@
+C:\Users\Volha_Shyrko\Documents\Visual Studio 2012\Projects\ExceptionHandling2\ExceptionHandling2\bin\Release\ExceptionHandling2.exe.config
+C:\Users\Volha_Shyrko\Documents\Visual Studio 2012\Projects\ExceptionHandling2\ExceptionHandling2\bin\Release\ExceptionHandling2.exe
+C:\Users\Volha_Shyrko\Documents\Visual Studio 2012\Projects\ExceptionHandling2\ExceptionHandling2\bin\Release\ExceptionHandling2.pdb
+C:\Users\Volha_Shyrko\Documents\Visual Studio 2012\Projects\ExceptionHandling2\ExceptionHandling2\obj\Release\ExceptionHandling2.exe
+C:\Users\Volha_Shyrko\Documents\Visual Studio 2012\Projects\ExceptionHandling2\ExceptionHandling2\obj\Release\ExceptionHandling2.pdb
